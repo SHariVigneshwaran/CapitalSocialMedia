@@ -1,2 +1,2 @@
-# CapitalSocialMedia
+# CapitalSocialMediaApp
 1st project
