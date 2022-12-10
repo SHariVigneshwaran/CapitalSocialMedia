@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558747985668",
+    "firebase_url": "https://sniffydonesocialize-default-rtdb.firebaseio.com",
+    "project_id": "sniffydonesocialize",
+    "storage_bucket": "sniffydonesocialize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558747985668:android:fec4e6a510e80d4ddb9251",
+        "android_client_info": {
+          "package_name": "com.assemble.capitals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558747985668-9ce22g39ljml36blm6csm2k4552695hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assemble.capitals",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "558747985668-oerlmg41j7lqj5on2u11k9q7uctnb36s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkqhJACDi8k-Mf92y-ViUeGxKnLbYgN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558747985668-oerlmg41j7lqj5on2u11k9q7uctnb36s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558747985668-qnvj3v7dk0dej3ps1bi29bbmg790j6lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.assemble.capitals"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
